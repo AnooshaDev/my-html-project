@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        p{
+            font-style: italic;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQs</title>
+</head>
+
+<body>
+    <header>
+       
+        <h1>Most Frequently Asked Questions</h1>
+        <nav>
+            <ul>
+                <li><a href="Home.html"> Home</a></li>
+                <li><a href="AboutUs.html"> AboutUs</a></li>
+                <li><a href="ContactUs.html"> ContactUs </a></li>
+                <li><a href="FAQs.html"> FAQs</a></li>
+                <li><a href="Services.html"> Services</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <aside>
+        <img src="/fqs question img.png" alt=" Qustion pic" style="float: right; width: 300px; height: 200px;">
+
+    </aside>
+        <section>
+            <h2>FQAs</h2>
+            <details>
+                <summary>What is UI/UX design?
+                </summary>
+                <p>
+                    UI/UX design is the process of creating a product's look and feel, as well as the overall user
+                    experience.
+                </p>
+            </details>
+                <details>
+                    <summary>
+                        What is prototyping?
+
+                    </summary>
+                    <p>
+                        Prototyping is the process of creating interactive mockups that simulate the user experience.
+                    </p>
+
+                </details>
+                <details>
+                    <summary>
+                        How can I learn UI/UX design?
+
+                    </summary>
+                    <p>Workshops and webinars can help you learn UI/UX design. These events often include real-world case studies and hands-on exercises. </p>
+                </details>
+           <details>
+            <summary>
+                What are some tools used for UI/UX design?
+
+            </summary>
+            <p >Adobe XD, Sketch, Figma, and Illustrator are some common design tools. 
+            </p>
+           </details>
+                   <!-- Add more FAQ items -->
+
+        </section>
+    
+    <footer>
+        <p >&copy; 2025 Learning ui\ux</p>
+    </footer>
+</body>
+
+</html>
