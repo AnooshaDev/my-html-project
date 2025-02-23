@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+  
+  table,th, td {
+  border-style: inset;
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background-color:#D6EEEE;
+}    
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services-page</title>
+</head>
+<body>
+    <header>
+        <h1>Services We Offer</h1>
+        <nav>
+            <ul>
+                <li><a href="Home.html"> Home</a></li>
+                <li><a href="AboutUs.html"> AboutUs</a></li>
+                <li><a href="ContactUs.html"> ContactUs </a></li>
+                <li><a href="FAQs.html"> FAQs</a></li>
+                <li><a href="Services.html"> Services</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Ui/Ux Services</h2>
+        <ul style="font-style: italic;">
+            <li>wireframing</li>
+            <li>prototyping</li>
+            <li>user journey mapping</li>
+            <li>customer journey mapping</li>
+            <li>interaction design</li>
+            <li>usability testing</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Differnt Project and Pricing</h2>
+        <table style="width: 100%;">
+        <thead>
+            <tr>
+                <th>
+                    Services
+                </th>
+                <th>
+                    Pricing
+                </th>
+                <th>Delivering Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>wireframing</td>
+                <td>15.00$</td>
+                <td>1-2 Days</td>
+            </tr>
+          
+            <tr>
+                <td>Prototyping</td>
+                <td>30.00$</td>
+                <td>2-3Days</td>
+            </tr>
+          
+            <tr>
+                <td>usability testing</td>
+                <td>120.00$</td>
+                <td>3-5Days</td>
+                </tr>
+               
+            <tr>
+                <td>low fedilty</td>
+                <td>50.00$</td>
+                <td>1-2Days</td>
+                </tr>
+             
+                <tr>
+                    <td>interactive design</td>
+                    <td>120.00$</td>
+                    <td>3-5Days</td>
+                    </tr>
+        </tbody>
+
+        </table>
+    </section>
+</body>
+</html>
