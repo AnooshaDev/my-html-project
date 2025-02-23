@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to UI\UX</title>
+</head>
+<body>
+    <header>
+        <h1>Introduction To UI\UX</h1>
+        <nav>
+            <ul>
+                <li><a href="Home.html"> Home</a></li>
+                <li><a href="AboutUs.html"> AboutUs</a></li>
+                <li><a href="ContactUs.html"> ContactUs </a></li>
+                <li><a href="FAQs.html"> FAQs</a></li>
+                <li><a href="Services.html"> Services</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>What is a ui\ux Design?</h2>
+        <p>A UI/UX designer is a professional who focuses on creating digital products with both a visually appealing user interface (UI) and a smooth, intuitive user experience (UX), essentially designing how a user interacts with and perceives a website, app, or software, prioritizing usability and satisfaction through thoughtful design choices</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cvm_ECH94x4?si=k5e2d61j8MoMgGmO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+    <footer>
+        <p>&copy; 2025 Learning ui\ux</p>
+    </footer>
+</body>
+</html>
