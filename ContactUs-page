@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ContctUS-Page</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="Home.html"> Home</a></li>
+                <li><a href="AboutUs.html"> AboutUs</a></li>
+                <li><a href="ContactUs.html"> ContactUs </a></li>
+                <li><a href="FAQs.html"> FAQs</a></li>
+                <li><a href="Services.html"> Services</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h1>ContactUs</h1>
+        <p>Get in Touch :</p>
+
+        <form>
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname" placeholder="Enter your name" required>
+            <br><br>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email" placeholder="abc123@gmail.com" required>
+            <br><br>
+            <label for="textarea">Message:</label>
+<textarea name="textarea" id="textarea" placeholder="Message/Feedback"></textarea><br><br>
+<button type="submit">Submit</button>
+        </form>
+    </section>
+    <section>
+        <h1>More Resources TO Contact With Us</h1>
+        <a href="inpro.html">abc123@gmail.com</a><br>
+        <a href="inpro.html">LinkedIn</a><br>
+        <a href="inpro.html">Twitter</a><br>
+
+    </section>
+    <footer>
+        <p>&copy; 2025 Learning ui\ux</p>
+    </footer>
+</body>
+
+</html>
