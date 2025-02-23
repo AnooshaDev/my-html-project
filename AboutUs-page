@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AboutUs-Page</title>
+</head>
+<body>
+    <header>
+        <h1>I'm a UI\UX Designer </h1>
+        <nav>
+            <ul>
+                <li><a href="Home.html"> Home</a></li>
+                <li><a href="AboutUs.html"> AboutUs</a></li>
+                <li><a href="ContactUs.html"> ContactUs </a></li>
+                <li><a href="FAQs.html"> FAQs</a></li>
+                <li><a href="Services.html"> Services</a></li>
+
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>About Project</h2>
+        <h4>My E-commerce Website Design</h4>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis, soluta voluptate. <br>Minus porro dolor inventore iste, aperiam modi reprehenderit iure laborum fugiat, cumque omnis voluptates ipsum illum quos at molestias. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat ipsum sint hic vitae debitis, corporis est quos quae inventore eius unde natus laboriosam iure dolorem, modi soluta voluptatum aliquam asperiores.</p>
+        <img src="/mockup.png" alt="My project" style="height: 450px; width:800px;">
+        <br>
+        <h2>About Author</h2>
+        <h4>Hi,I'm Anoosha </h4>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit ea cumque, voluptates vero odio quia perferendis repudiandae, amet molestiae magni in quod minus quas. Laboriosam optio quae rem nostrum atque!</p>
+    </section>
+    <footer><p>&copy;2025 Learning ui\ux</p></footer>
+</body>
+</html>
